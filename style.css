@@ -1,0 +1,46 @@
+.banner {
+    height: 90vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/image/bg-banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.center-content {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fs-5em {
+    font-size: 5em;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.none-style {
+    list-style: none;
+}
+
+.me-n5 {
+    margin-left: -1em;
+}
+
+.mend-5 {
+    margin-left: 1em;
+}
+
+.bg-sea {
+    background-color: skyblue;
+}
+
+.font {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.bg-cream {
+    background-color: bisque;
+}
